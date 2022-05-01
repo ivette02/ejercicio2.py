@@ -1,2 +1,3 @@
 # ejercicio2.py
-y="Hola mi nombre es Ivette" print(y)
+y="Hola mi nombre es Ivette"
+print(y)
